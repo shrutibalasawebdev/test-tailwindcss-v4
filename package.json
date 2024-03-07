@@ -1,0 +1,16 @@
+{
+  "name": "tailwind-v4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tailwindcss -i ./tailwind.css -o ./public/css/styles.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.0-alpha.5",
+    "tailwindcss": "^4.0.0-alpha.5"
+  }
+}
